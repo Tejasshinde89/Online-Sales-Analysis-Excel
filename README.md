@@ -44,7 +44,7 @@ These insights were then visualized in a comprehensive Excel Dashboard for easy 
 ---
 
 ## 📸 Dashboard  
-![Dashboard Screenshot](images/dashboard.png)  
+<img src="Dashboard..png" alt="Dashboard Screenshot"/>  
 *(Add your actual dashboard screenshot here)*  
 
 ---
