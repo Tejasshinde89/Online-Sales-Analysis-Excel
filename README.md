@@ -45,7 +45,6 @@ These insights were then visualized in a comprehensive Excel Dashboard for easy 
 
 ## 📸 Dashboard  
 <img src="Dashboard..png" alt="Dashboard Screenshot"/>  
-*(Add your actual dashboard screenshot here)*  
 
 ---
 📌 *This project demonstrates how Excel can be used to transform raw sales data into actionable business insights.*  
