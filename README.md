@@ -9,7 +9,7 @@ A dashboard was created in **Microsoft Excel** to help business managers track p
 ---
 
 ## 🛠 Tool Used  
-![Uploading image.png…]()
+Microsoft_Excel.jpg/excel.jpg
 
 
 ---
